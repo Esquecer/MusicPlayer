@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">本地音乐播放器</string>
+    <string name="actor">歌手</string>
+    <string name="name">歌名</string>
+    <string name="time">时长</string>
+</resources>
+
